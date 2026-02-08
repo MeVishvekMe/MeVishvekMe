@@ -1,16 +1,15 @@
-## Hi there 👋
+# Vishvek Methwani
+Unity & VR Developer
 
-<!--
-**MeVishvekMe/MeVishvekMe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Portfolio:** https://mevishvekme.github.io/responsive-portfolio/
+Unity • C# • XR Interaction Toolkit • VR  
+Freelance Unity Developer
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Work
+- VR Arcade Airplane Game
+- Puzzle & Card Games in Unity
+- Runtime Map Maker (WebGL)
+
+👉 **View full portfolio:** https://mevishvekme.github.io/responsive-portfolio/
